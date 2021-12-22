@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://JoeOngg.github.io</id>
+    <id>https://JoeOngg.me</id>
     <title>Joe</title>
-    <updated>2021-12-22T07:35:20.208Z</updated>
+    <updated>2021-12-22T07:36:56.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://JoeOngg.github.io"/>
-    <link rel="self" href="https://JoeOngg.github.io/atom.xml"/>
+    <link rel="alternate" href="https://JoeOngg.me"/>
+    <link rel="self" href="https://JoeOngg.me/atom.xml"/>
     <subtitle>被害者还活着吗</subtitle>
-    <logo>https://JoeOngg.github.io/images/avatar.png</logo>
-    <icon>https://JoeOngg.github.io/favicon.ico</icon>
+    <logo>https://JoeOngg.me/images/avatar.png</logo>
+    <icon>https://JoeOngg.me/favicon.ico</icon>
     <rights>All rights reserved 2021, Joe</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://JoeOngg.github.io/post/hello-gridea/</id>
-        <link href="https://JoeOngg.github.io/post/hello-gridea/">
+        <id>https://JoeOngg.me/post/hello-gridea/</id>
+        <link href="https://JoeOngg.me/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
